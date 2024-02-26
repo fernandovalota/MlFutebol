@@ -1,0 +1,12 @@
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\bin\Debug\net8.0\MlFutebol.Bussiness.deps.json
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\bin\Debug\net8.0\MlFutebol.Bussiness.dll
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\bin\Debug\net8.0\MlFutebol.Bussiness.pdb
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\MlFutebol.Bussiness.csproj.AssemblyReference.cache
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\MlFutebol.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\MlFutebol.Bussiness.AssemblyInfoInputs.cache
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\MlFutebol.Bussiness.AssemblyInfo.cs
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\MlFutebol.Bussiness.csproj.CoreCompileInputs.cache
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\MlFutebol.Bussiness.dll
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\refint\MlFutebol.Bussiness.dll
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\MlFutebol.Bussiness.pdb
+D:\Git\MagazineLuiza\MLFotebol\src\MlFotebol.Bussiness\obj\Debug\net8.0\ref\MlFutebol.Bussiness.dll

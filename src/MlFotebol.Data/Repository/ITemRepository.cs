@@ -1,0 +1,19 @@
+﻿using Microsoft.EntityFrameworkCore;
+using MlFutebol.Bussiness.Entities;
+using MlFutebol.Bussiness.Interfaces.Repositories;
+using MlFutebol.Data.Context;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MlFutebol.Data.Repository
+{
+    public class ItemRepository : Repository<Item>, IItemRepository
+    {
+        public ItemRepository(MlDbContext db) : base(db)
+        {
+        }
+    }
+}
